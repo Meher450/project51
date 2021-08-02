@@ -1,1 +1,1 @@
-https://wwww.Meher450.github.io/project51/index.html
+https://meher450.github.io/project51/
