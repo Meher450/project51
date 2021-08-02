@@ -1,0 +1,45 @@
+.image{
+    display: flex;
+    color: rgb(0, 255, 229);;
+    background-color: black;
+}
+
+.whole{ 
+    background-color: rgb(0, 255, 229);
+}
+
+.header1{
+    display: flex;
+    align-self: center;
+    padding: 50px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 500;
+    color: #ff0000;
+}
+
+.camel{
+    display: flex;
+    justify-content: left;
+
+}
+
+.content1{
+    display: flex;
+    justify-content:center;
+    align-self:center;
+    padding: 10px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    color: #ffffff;    
+}
+
+.heading{
+    background-color: rgb(0, 255, 229);
+    padding: 25px;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: 500;
+    color: #000000;
+}
